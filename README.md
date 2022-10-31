@@ -1,5 +1,5 @@
 # NoSpring-Project
-Developing a Java web server without using Spring
+Develop a Java web server without Spring
 
 # Commit Rules
 ```
