@@ -9,7 +9,6 @@ public class MemberServiceImpl implements MemberService{
         memberRepository.save(member);
     }
 
-    //TODO: 에러수정
     @Override
     public Member findMember(Long memberId) {
         return memberRepository.findById(memberId);
